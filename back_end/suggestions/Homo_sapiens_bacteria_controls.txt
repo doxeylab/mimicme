@@ -1,0 +1,69 @@
+Thermus thermophilus HB27 uid58033 
+Methylococcus capsulatus Bath uid57607 
+Chlorobium tepidum TLS uid57897 
+Yersinia pestis biovar Microtus 91001 uid58037 
+Xylella fastidiosa Temecula1 uid57869 
+Thermoanaerobacter tengcongensis MB4 uid57813 
+Zymomonas mobilis ZM4 uid58095 
+Geobacter sulfurreducens PCA uid57743 
+Clostridium acetobutylicum ATCC 824 uid57677 
+Lactobacillus plantarum WCFS1 uid62911 
+Hyphomonas neptunium ATCC 15444 uid58433 
+Baumannia cicadellinicola Hc  Homalodisca coagulata  uid58111 
+Thermosynechococcus elongatus BP 1 uid57907 
+Desulfovibrio vulgaris Hildenborough uid57645 
+Gloeobacter violaceus PCC 7421 uid58011 
+Lactococcus lactis Il1403 uid57671 
+Ruegeria pomeroyi DSS 3 uid57863 
+Nitrosomonas europaea ATCC 19718 uid57647 
+Bacillus halodurans C 125 uid57791 
+Chromobacterium violaceum ATCC 12472 uid58001 
+Aquifex aeolicus VF5 uid57765 
+Corynebacterium efficiens YS 314 uid62905 
+Escherichia coli K 12 substr  MG1655 uid57779 
+Ralstonia solanacearum GMI1000 uid57593 
+Pseudomonas syringae tomato DC3000 uid57967 
+Dehalococcoides ethenogenes 195 uid57763 
+Bradyrhizobium japonicum USDA 110 uid57599 
+Bifidobacterium longum NCC2705 uid57939
+Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis uid57853 
+Thermotoga maritima MSB8 uid179902 
+Buchnera aphidicola APS  Acyrthosiphon pisum  uid57805 
+Bacteroides thetaiotaomicron VPI 5482 uid62913 
+Sinorhizobium meliloti 1021 uid57603 
+Streptococcus thermophilus CNRZ1066 uid58221 
+Carboxydothermus hydrogenoformans Z 2901 uid57821 
+Pseudomonas syringae phaseolicola 1448A uid58099 
+Caulobacter crescentus CB15 uid57891 
+Xanthomonas campestris 8004 uid57595 
+Mannheimia succiniciproducens MBEL55E uid58197 
+Magnetococcus MC 1 uid57833 
+Xanthomonas oryzae KACC 10331 uid58155 
+Oceanobacillus iheyensis HTE831 uid57867 
+Synechococcus WH 8102 uid61581 
+Mesorhizobium loti MAFF303099 uid57601 
+Buchnera aphidicola Bp  Baizongia pistaciae  uid57827 
+Acinetobacter ADP1 uid61597 
+Xanthomonas campestris ATCC 33913 uid57887 
+Myxococcus xanthus DK 1622 uid58003 
+Pseudomonas putida KT2440 uid57843 
+Staphylococcus epidermidis ATCC 12228 uid57861 
+Onion yellows phytoplasma OY M uid58015 
+Nostoc PCC 7120 uid57803 
+Streptomyces avermitilis MA 4680 uid57739 
+Wolinella succinogenes DSM 1740 uid61591 
+Xylella fastidiosa 9a5c uid57849 
+Xanthomonas axonopodis citri 306 uid57889 
+Thermus thermophilus HB8 uid58223 
+Deinococcus radiodurans R1 uid57665 
+Candidatus Blochmannia floridanus uid57999 
+Streptomyces coelicolor A3 2  uid57801 
+Bacillus subtilis 168 uid57675 
+Acidithiobacillus ferrooxidans ATCC 23270 uid57649 
+Pseudomonas fluorescens Pf 5 uid57937 
+Colwellia psychrerythraea 34H uid57855 
+Thiobacillus denitrificans ATCC 25259 uid58189 
+Buchnera aphidicola Sg  Schizaphis graminum  uid57913 
+Synechocystis PCC 6803 uid189748 
+Rhodopirellula baltica SH 1 uid61589 
+Aromatoleum aromaticum EbN1 uid58231 

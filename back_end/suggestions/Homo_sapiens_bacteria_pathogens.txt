@@ -1,0 +1,86 @@
+Porphyromonas gingivalis W83 uid57641 
+Clostridium perfringens SM101 uid58117 
+Streptococcus agalactiae NEM316 uid61585 
+Streptococcus pneumoniae R6 uid57859 
+Coxiella burnetii RSA 493 uid57631 
+Shigella flexneri 2a 2457T uid57991 
+Mycobacterium tuberculosis H37Rv uid170532 
+Campylobacter jejuni RM1221 uid57899 
+Chlamydophila pneumoniae TW 183 uid57997 
+Mycoplasma genitalium G37 uid57707 
+Shigella flexneri 2a 301 uid62907 
+Neisseria meningitidis Z2491 uid57819 
+Tropheryma whipplei TW08 27 uid57961 
+Chlamydia trachomatis D UW 3 CX uid57637 
+Clostridium tetani E88 uid57683 
+Yersinia pestis KIM 10 uid57875 
+Chlamydophila pneumoniae CWL029 uid57811 
+Ureaplasma parvum serovar 3 ATCC 700970 uid57711 
+Mycobacterium avium 104 uid57693 
+Escherichia coli CFT073 uid57915 
+Thermobifida fusca YX uid57703 
+Clostridium perfringens ATCC 13124 uid57901 
+Streptococcus pyogenes MGAS8232 uid57871 
+Staphylococcus saprophyticus ATCC 15305 uid58411 
+Mycobacterium leprae TN uid57697 
+Bordetella pertussis Tohama I uid57617 
+Helicobacter pylori J99 uid57789 
+Ehrlichia chaffeensis Arkansas uid57933 
+Burkholderia pseudomallei K96243 uid57733 
+Neorickettsia sennetsu Miyayama uid57965 
+Enterococcus faecalis V583 uid57669 
+Chlamydia muridarum Nigg uid57785 
+Bacillus anthracis Ames uid57909 
+Vibrio vulnificus YJ016 uid58007 
+Burkholderia mallei ATCC 23344 uid57725 
+Rickettsia conorii Malish 7 uid57633 
+Brucella suis 1330 uid159871 
+Neisseria meningitidis MC58 uid57817 
+Listeria monocytogenes serotype 4b F2365 uid57689 
+Treponema pallidum Nichols uid208669 
+Campylobacter jejuni NCTC 11168   ATCC 700819 uid57587 
+Clostridium perfringens 13 uid57681 
+Listeria monocytogenes EGD e uid61583 
+Yersinia pestis CO92 uid57621 
+Staphylococcus aureus N315 uid57837 
+Mycoplasma penetrans HF 2 uid57729 
+Vibrio parahaemolyticus RIMD 2210633 uid57969 
+Bartonella henselae Houston 1 uid57745 
+Legionella pneumophila Lens uid58209 
+Escherichia coli O157 H7 Sakai uid57781 
+Treponema denticola ATCC 35405 uid57583 
+Helicobacter pylori 26695 uid178201 
+Streptococcus pneumoniae TIGR4 uid57857 
+Vibrio vulnificus CMCP6 uid62909 
+Mycobacterium tuberculosis CDC1551 uid57775 
+Staphylococcus aureus MW2 uid57903 
+Salmonella enterica serovar Typhi CT18 uid57793 
+Chlamydophila pneumoniae J138 uid57829 
+Pseudomonas aeruginosa PAO1 uid57945 
+Brucella melitensis bv  1 16M uid57735 
+Staphylococcus epidermidis RP62A uid57663 
+Streptococcus agalactiae 2603V R uid57943 
+Yersinia pseudotuberculosis IP 32953 uid58157 
+Prevotella intermedia 17 uid163151 
+Bordetella parapertussis 12822 uid57615 
+Staphylococcus aureus Mu50 uid57835 
+Salmonella enterica serovar Typhimurium LT2 uid57799 
+Borrelia burgdorferi B31 uid57581 
+Escherichia coli O157 H7 EDL933 uid57831 
+Leptospira interrogans serovar Lai 56601 uid57881 
+Pasteurella multocida Pm70 uid57627 
+Tropheryma whipplei Twist uid57705 
+Chlamydophila pneumoniae AR39 uid57809 
+Staphylococcus aureus COL uid57797 
+Listeria innocua Clip11262 uid61567 
+Rickettsia prowazekii Madrid E uid61565 
+Nocardia farcinica IFM 10152 uid58203 
+Vibrio cholerae O1 biovar El Tor N16961 uid57623 
+Anaplasma phagocytophilum HZ uid57951 
+Bacillus cereus ATCC 10987 uid57673 
+Streptococcus pyogenes MGAS315 uid57911 
+Salmonella enterica serovar Typhi Ty2 uid57973 
+Corynebacterium diphtheriae NCTC 13129 uid57691 
+Bacillus cereus ATCC 14579 uid57975 
+Mycoplasma pneumoniae M129 uid57709 
+Francisella tularensis TIGB03 uid89379
