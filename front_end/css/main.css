@@ -1,0 +1,353 @@
+/* jQuery UI overrides */
+
+.ui-helper-hidden-accessible {
+  display: none;
+}
+
+.ui-autocomplete {
+  background: white;
+  border: 1px solid #444;
+  list-style-type: none;
+  font-size: 14px;
+  width: 300px;
+  max-height: 100px;
+  overflow: scroll;
+  z-index: 999;
+}
+
+.ui-autocomplete a:hover, .ui-state-focus {
+  background: #9DCAD8;
+}
+
+/* Foundation overrides */
+
+.tooltip.none {
+  display: none;
+}
+
+label {
+  display: inline-block;
+}
+
+.tabs dd>a {
+  background: #f9f9f9;
+}
+
+.tabs dd.active a {
+  background: #efefef;
+}
+
+.panel {
+  background-color: #efefef;
+}
+
+button.small {
+  padding: 8px;
+  margin-bottom: 2px;
+}
+
+.tabs dd>a {
+  border: 1px solid #E0E0E0;
+  border-width: 0 0 0 1px;
+}
+
+.tabs dd:first-child >a {
+  border-width: 0;
+}
+
+/* Introduction */
+
+.page-title {
+  display: inline-block;
+  padding-left: 100px;
+  background: url('../img/logo.png');
+  background-position-x: left;
+  background-repeat: no-repeat;
+  min-height: 52px;
+}
+
+.intro ol {
+  list-style-position: inside;
+}
+.intro li {
+  margin-bottom: 5px;
+}
+.intro img {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+div.initial-hide {
+  display:none;
+}
+
+/* Pathogen Selection */
+
+.organism-selection input, .action-text {
+  vertical-align: top;
+  display: inline-block;
+  width: 80%;
+  height: 20px;
+  margin-bottom: 5px;
+}
+
+.action-text {
+  margin-top: 10px;
+  color: #333;
+  font-size: 12px;
+  display: none;
+}
+
+.add-organism, .undo-action {
+  vertical-align: top;
+  display: inline-block;
+  width: 18%;
+  margin-left: 2%;
+  margin-bottom: 5px;
+  text-align: center;
+  height: 20px;
+  background: #fafafa;
+  padding-top: 1px;
+  border: 1px solid #cccccc;
+}
+
+.clear-all, .suggest {
+  display: block;
+  text-align: center;
+  height: 30px;
+  background: #fafafa;
+  border: 1px solid #cccccc;
+  margin-bottom: 5px;
+  padding-top: 5px;
+}
+
+.clear-all:hover, .add-organism:hover, .undo-action:hover, .suggest:hover {
+  background: #ededed;
+  border-color: #999999
+}
+
+.undo-action {
+  margin-top: 5px;
+  font-size: 12px;
+  display: none;
+}
+
+.organism-selection select {
+  display: block;
+  margin: 8px 0 5px 0;;
+  width: 100%;
+}
+
+.selected-organisms {
+  margin-left: 0;
+}
+
+.selected-organisms li {
+  border: 1px solid #444;
+  border-width: 1px 0 0 0;
+  padding: 3px 0;
+  background: #E2E2E2;
+  list-style-type: none;
+  position: relative;
+  margin-left: 0;
+}
+
+.selected-organisms li a {
+  display: inline-block;
+  padding: 3px;
+  position: absolute;
+  right: 5px;
+} 
+
+.selected-organisms li a:hover {
+  font-weight: bold;
+}
+
+.selected-organisms li p {
+  margin-right: 20px;
+  margin-bottom: 0;
+  padding: 2px;
+  font-size: 14px;
+}
+
+/* Results */
+
+.pagination-centered ul.pagination {
+  height: auto;
+}
+
+.pagination select {
+  width: auto;
+  padding-left: 15px;
+  padding-right: 20px;
+}
+
+.tabs dd {
+  border: 1px solid red;
+  border-width: 0 0 1px 0;
+}
+
+.result {
+  border: 1px solid gray;
+  background: #e2e2e2;
+  padding: 10px;
+  margin: 10px;
+}
+
+.result strong {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  display: inline-block;
+}
+
+.structure-hint {
+  background: url('../img/little-helix.png');
+  display: inline-block;
+  height: 17px;
+  width: 32px;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+.detailed_result {
+  margin-top: 5px;
+  padding-top: 10px;
+  border: 1px solid gray;
+  border-width: 1px 0 0 0;
+}
+
+.detailed_result select {
+  width: 250px;
+  padding-right: 15px;
+  margin-left: 10px;
+}
+
+.detailed_result .struct-select {
+  width: 150px;
+}
+
+.detailed_result li{
+  list-style-type: none;
+  border: 1px dashed gray;
+  border-width: 1px 0 1px 0;
+  background: #D0D0D0;
+  margin-bottom: 10px;
+}
+
+.detailed_result button {
+  display: inline-block;
+  margin: 5px;
+}
+
+.hit_species {
+  font-style: italic;
+}
+
+.hit_name {
+  font-weight: bold;
+}
+
+.hit_details, .hit_details * {
+  font-size: 12px;
+}
+
+.hit_detail {
+  text-decoration: underline;
+}
+
+.hits_title {
+  text-decoration: underline;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.alignment {
+  display: inline-block;
+  margin-top: 10px;
+  float: left;
+  white-space: pre;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.alignment-start {
+  padding-right: 10px;
+}
+
+.alignment-end {
+  padding-left: 10px;
+}
+
+/* Popovers */
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20%;
+  height: 100%;
+  opacity: .7;
+  background-color: #000;
+  z-index: 1000;
+  color: white;
+  font-size: 36px;
+  text-align: center;
+}
+
+input.david {
+  display: inline-block;
+  width: 60px;
+  margin-left: 5px;
+}
+
+/* Structure viewer */
+
+.structure {
+  height: 500px;
+}
+
+.structure-src {
+  display: none;
+}
+
+/* MSA viewer */
+
+.msa-names {
+  display: inline-block;
+  font-family: "Courier New", Courier, monospace;
+  float: left;
+  white-space: pre;
+  padding-bottom: 55px;
+  margin-right: 8px;
+  font-size:14px;
+}
+
+.msa-column {
+  display: inline-block;
+  white-space: pre;
+  float: left;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-size:14px;
+}
+
+.msa-column-number {
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 5px;
+  display: inline-block;
+  height: 50px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 11px;
+}
+
+/* General */
+
+.clear {
+  clear: both;
+}
